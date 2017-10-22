@@ -1,0 +1,27 @@
+c:\users\cavidan\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp1.1\ConsoleApp3.deps.json
+c:\users\cavidan\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp1.1\ConsoleApp3.runtimeconfig.json
+c:\users\cavidan\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp1.1\ConsoleApp3.runtimeconfig.dev.json
+c:\users\cavidan\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp1.1\ConsoleApp3.csprojResolveAssemblyReference.cache
+c:\users\cavidan\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp1.1\ConsoleApp3.AssemblyInfo.cs
+c:\users\cavidan\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp1.1\ConsoleApp3.dll
+c:\users\cavidan\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp1.1\ConsoleApp3.pdb
+c:\users\cavidan\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp1.1\ConsoleApp3.dll
+c:\users\cavidan\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp1.1\ConsoleApp3.pdb
+C:\Users\Cavidan\Desktop\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp1.1\ConsoleApp3.deps.json
+C:\Users\Cavidan\Desktop\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp1.1\ConsoleApp3.runtimeconfig.json
+C:\Users\Cavidan\Desktop\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp1.1\ConsoleApp3.runtimeconfig.dev.json
+C:\Users\Cavidan\Desktop\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp1.1\ConsoleApp3.csprojResolveAssemblyReference.cache
+C:\Users\Cavidan\Desktop\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp1.1\ConsoleApp3.AssemblyInfo.cs
+C:\Users\Cavidan\Desktop\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp1.1\ConsoleApp3.dll
+C:\Users\Cavidan\Desktop\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp1.1\ConsoleApp3.pdb
+C:\Users\Cavidan\Desktop\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp1.1\ConsoleApp3.dll
+C:\Users\Cavidan\Desktop\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp1.1\ConsoleApp3.pdb
+C:\Users\Cavidan\Desktop\p301-19-05-2017-cavidann\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp1.1\ConsoleApp3.deps.json
+C:\Users\Cavidan\Desktop\p301-19-05-2017-cavidann\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp1.1\ConsoleApp3.runtimeconfig.json
+C:\Users\Cavidan\Desktop\p301-19-05-2017-cavidann\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp1.1\ConsoleApp3.runtimeconfig.dev.json
+C:\Users\Cavidan\Desktop\p301-19-05-2017-cavidann\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp1.1\ConsoleApp3.dll
+C:\Users\Cavidan\Desktop\p301-19-05-2017-cavidann\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp1.1\ConsoleApp3.pdb
+C:\Users\Cavidan\Desktop\p301-19-05-2017-cavidann\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp1.1\ConsoleApp3.csprojResolveAssemblyReference.cache
+C:\Users\Cavidan\Desktop\p301-19-05-2017-cavidann\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp1.1\ConsoleApp3.AssemblyInfo.cs
+C:\Users\Cavidan\Desktop\p301-19-05-2017-cavidann\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp1.1\ConsoleApp3.dll
+C:\Users\Cavidan\Desktop\p301-19-05-2017-cavidann\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp1.1\ConsoleApp3.pdb
